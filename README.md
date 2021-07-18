@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...la ciencia de datos 
 - 🌱 I’m currently learning ... lenguaje de programación 
 - 💞️ I’m looking to collaborate on ...Machine Learning
-- 📫 How to reach me ... me  correo personal ingenierotorres1986@gmail.com
+- 📫 How to reach me ...  a mi correo personal : ingenierotorres1986@gmail.com
 
 <!---
 Rogertq/Rogertq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
